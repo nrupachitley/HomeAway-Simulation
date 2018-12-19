@@ -1,0 +1,28 @@
+/**** BASE ****/
+body {
+    color: #888;   
+}
+a {
+    color: #03a1d1;
+    text-decoration: none!important;
+}
+
+.navbar-custom {
+    background-color: white;
+    height: 70px;
+    margin-bottom: 0%;
+}
+
+.thumbnail-custom {
+    height: 320px;
+    width: 400px;
+}
+
+#myCarouselProperty .item{
+    height: 500px;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    height: 500px;
+    width: 100%; 
+}

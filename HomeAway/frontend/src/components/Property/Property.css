@@ -1,0 +1,112 @@
+.user-row {
+    margin-bottom: 14px;
+}
+
+.user-row:last-child {
+    margin-bottom: 0;
+}
+
+.dropdown-user {
+    margin: 13px 0;
+    padding: 5px;
+    height: 100%;
+}
+
+.dropdown-user:hover {
+    cursor: pointer;
+}
+
+.table-user-information > tbody > tr {
+    border-top: 1px solid rgb(221, 221, 221);
+}
+
+.table-user-information > tbody > tr:first-child {
+    border-top: 0;
+}
+
+
+.table-user-information > tbody > tr > td {
+    border-top: 0;
+}
+.toppad
+{margin-top:20px;
+}
+
+.profile-header .profile-header-photo {
+    margin: 0 auto;
+    position: relative;
+    width: 100px;
+}
+
+.img-circle {
+    border-radius: 50%;
+}
+
+.btn-icon-circle {
+    width: 48px;
+    height: 48px;
+    line-height: 48px;
+    padding: 0;
+    border-radius: 50%;
+}
+
+#profileImage {
+    background: 'https://odis.homeaway.com/mda01/57abc33f-02aa-4a6c-8c3e-553f2306b6f8.2.2';
+    border-radius: 50%;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 80%;
+    min-height: 80%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 20%;
+    left: 5%;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+
+.sidenav a {
+    padding: 20px 20px 20px 20px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    display: block;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    outline: none;
+}
+
+body {
+    background-color: lightgrey; 
+}
+
+.navbar-custom {
+    background-color: white;
+    height: 70px;
+}
+

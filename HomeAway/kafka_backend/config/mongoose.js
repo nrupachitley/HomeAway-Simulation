@@ -1,0 +1,17 @@
+var mongoose = require('mongoose');
+
+mongoose.Promise = global.Promise;
+
+mongoose.connect('mongodb://nrupa16:16Jan91*@ds149593.mlab.com:49593/homeaway', { poolSize: 10 }).then(
+    () => {
+        console.log("Getting MongoDB Connection!!!")
+    },
+    err => {
+        console.log("Connection Failed!. Error: ${err}")
+    }
+);
+
+module.exports = {
+    mongoose,
+    secret : 'lab2_HomeAway'
+};
