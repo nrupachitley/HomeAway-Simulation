@@ -25,7 +25,27 @@ cd HomeAway
 yarn install
 yarn dev
 ```
+---
 
+## Technologies:
+
+### Front-end:
+```
+- ReactJS
+- HTML
+- Redux
+```
+
+### Back-end:
+```
+- NodeJS
+- Kafka
+```
+
+### Database:
+```
+- MongoDB
+```
 ---
 
 ## Demo 
