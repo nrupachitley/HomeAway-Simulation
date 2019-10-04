@@ -48,14 +48,15 @@ yarn dev
 ```
 ---
 
-## Demo 
+## App Images 
 
-Click on image to see demo video:
+Landing Page
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Ynar8kP4Wy4/0.jpg)](https://www.youtube.com/watch?v=Ynar8kP4Wy4)
+![landing page](LandingPage.png)
 
+After Login
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cl_4afZ99DU/0.jpg)](https://www.youtube.com/watch?v=cl_4afZ99DU)
+![after login](AfterLogin.png)
 
 ---
 
