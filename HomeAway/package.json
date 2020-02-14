@@ -50,7 +50,7 @@
     "redux-persist": "^5.10.0",
     "redux-promise": "^0.6.0",
     "tcomb": "^3.2.27",
-    "yarn": "^1.9.4"
+    "yarn": "^1.22.0"
   },
   "scripts": {
     "start": "react-scripts start",
